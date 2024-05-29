@@ -1,0 +1,57 @@
+#content-top{
+    height: 80px;
+    width: 100px;
+    border: 1px solid black;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+#content-top p{
+    font-size: 10px;
+    text-align: justify;
+    margin: 0;
+    padding: 0;
+}
+
+#top h1{
+    text-align: center;
+    display: inline-block;
+    margin: 0;
+    position: relative;
+    bottom: 20px;
+}
+
+#below-hr p{
+    display: inline-block;
+    margin-right: 50px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#third-hr{
+    margin-bottom: 0;
+}
+
+.content#item1{
+    height: 500px;
+    width: 350px;
+    float: left;
+}
+
+.content img{
+    float: right;
+    border: solid 1px;
+    margin: 15px 0px 15px 15px;
+}
+
+.content#item2{
+    height: 100px;
+    width: 150px;
+    float: inline-start;
+    border: 1px solid;
+    margin: 25px;
+}
+
+
+
